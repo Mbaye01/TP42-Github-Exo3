@@ -1,31 +1,26 @@
-Liste d'Ajout de Projet
+Liste pour l'Ajout de Projet
+Phase 2     
 
-1. Nom du Projet : Application de Gestion des tâches
-Description:  Développement d'une application de gestion des tâches
+1. Identification du Projet
+Code du Projet:  AGT-2024-001
 
-2. Objectifs
-Créer une application web permettant aux utilisateurs de gérer leurs tâches quotidiennes.
-3. Responsable du Projet
-Nom: Mbaye Abdellahi Kalidou
-Contact: mbayenkc@gmail.com
+2. Type de Projet
+Catégorie: Développement logiciel, Recherche et développement.
 
-4. Équipe de Projet
-Membres et Rôles
-Adama B - Développeuse front-end
-Amina sy - Développeur back-end
-Sophie  - Designer UX/UI
+3. Parties Prenantes
+Clients: Apprennats.
+Partenaires: SIMPLON 
 
-5. Date de Début
-Date: [ 1er septembre 2024]
-6. Date de Fin Estimée
-Date: [30 novembre 2024]
+4. Plan de Communication
+Canaux de Communication:  Réunions mensuelles, bulletins d’information par e-mail
 
-7. Budget Prévisionnel
-Montant: 10 000 MRU
+5. Plan de Mise en Œuvre
+Étapes Clés: Prototype (15 septembre)
+Version bêta (1er octobre)
+Lancement final (15 novembre)
 
-8 Documentation
-Documents: Cahier des charges
-
-9. Suivi et Révision
-Méthode de Suivi:  Réunions hebdomadaires, rapports de progrès
-
+6. Livrables
+Liste des Livrables: [Produits finaux attendus]
+Exemple:
+Documentation technique
+Rapport de test
