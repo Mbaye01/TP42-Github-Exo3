@@ -23,11 +23,9 @@ Date: [30 novembre 2024]
 7. Budget Prévisionnel
 Montant: 10 000 MRU
 
-8. Ressources Nécessaires
-Matériel: Ordinateurs
-Logiciels: IDE, outils de gestion de projet
+8 Documentation
+Documents: Cahier des charges
 
-9. Plan de Travail
-Phase 1: Conception (1er septembre - 15 septembre)
-Phase 2: Développement (16 septembre - 15 novembre)
-Phase 3: Tests et Déploiement (16 novembre - 30 novembre)
+9. Suivi et Révision
+Méthode de Suivi:  Réunions hebdomadaires, rapports de progrès
+
